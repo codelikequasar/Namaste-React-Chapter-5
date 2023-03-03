@@ -1,1 +1,1 @@
-# Namaste-React-chapter-5
+# Namaste-React-chapter-6
